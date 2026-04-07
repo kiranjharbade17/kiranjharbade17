@@ -64,16 +64,9 @@ I am a passionate learner exploring **programming and data science**. I enjoy so
 
 ---
 
-## 📊 GitHub Stats
-
-![Kiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect With Me
 
+- Email: kiranjharbade2005@gmail.com
 - GitHub: https://github.com/kiranjharbade17  
 
 ---
